@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#FFF0EA"/><stop offset="1" stop-color="#E7E3FF"/></linearGradient><filter id="s"><feDropShadow dx="0" dy="16" stdDeviation="14" flood-color="#7C3AED" flood-opacity=".16"/></filter></defs>
+  <rect width="800" height="600" fill="url(#bg)"/><circle cx="665" cy="120" r="104" fill="#fff" opacity=".31"/>
+  <g filter="url(#s)"><rect x="214" y="349" width="386" height="89" rx="15" transform="rotate(-2 214 349)" fill="#5E46F0"/><rect x="234" y="263" width="365" height="87" rx="14" transform="rotate(2 234 263)" fill="#17C77D"/><rect x="202" y="173" width="390" height="92" rx="15" transform="rotate(-3 202 173)" fill="#FF6B82"/><path d="M239 181l321-17M238 203l242-13M273 272l292-4M271 295l202-3M250 360l320 8M251 383l219 5" stroke="#fff" stroke-width="8" stroke-linecap="round" opacity=".65"/><rect x="189" y="438" width="412" height="92" rx="15" transform="rotate(1 189 438)" fill="#F5B94D"/><path d="M228 467h296M228 491h205" stroke="#fff" stroke-width="8" stroke-linecap="round" opacity=".7"/></g>
+</svg>
